@@ -34,5 +34,7 @@ Open [Google Cloud Console](https://console.cloud.google.com/welcome?authuser=1)
 
 ## Obtaining Credentials to use the API
 </p>Now that we have created our project and enabled the API we're going to be using. It's time to obtain credentials grant us permission to use the API from Google.</p>
+</p>After enabling the API, click "Credentials"<p/>
+<img width="1419" alt="Screen Shot 2022-07-01 at 1 27 17 AM" src="https://user-images.githubusercontent.com/72324875/176829753-796dc02d-44d2-4340-8335-84d218b63263.png">
 
 
