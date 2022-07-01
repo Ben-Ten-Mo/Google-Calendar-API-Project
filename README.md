@@ -32,4 +32,7 @@ Open [Google Cloud Console](https://console.cloud.google.com/welcome?authuser=1)
 </p>After clicking on the first result, enable the API<p/>
 <img width="1423" alt="Screen Shot 2022-07-01 at 1 18 19 AM" src="https://user-images.githubusercontent.com/72324875/176828817-1de39e62-0c99-4ffe-af11-9cea795dd328.png">
 
+## Obtaining Credentials to use the API
+</p>Now that we have created our project and enabled the API we're going to be using. It's time to obtain credentials grant us permission to use the API from Google.</p>
+
 
