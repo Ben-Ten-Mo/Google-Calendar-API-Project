@@ -25,7 +25,11 @@ Open [Google Cloud Console](https://console.cloud.google.com/welcome?authuser=1)
 <img width="1425" alt="Screen Shot 2022-07-01 at 12 40 50 AM" src="https://user-images.githubusercontent.com/72324875/176827944-a9fd1065-a793-4047-833d-023b8134308b.png">
 </p>Now go to "ENABLE APIS AND SERVICES"<p/>
 <img width="1425" alt="Screen Shot 2022-07-01 at 1 11 36 AM" src="https://user-images.githubusercontent.com/72324875/176828118-cfcea8fc-ba90-42a1-96d8-a68956476cf0.png">
-</p>Type in "Google Calendar API"<p/>
+</p>In the searchbar type in "Google Calendar API"<p/>
 <img width="1420" alt="Screen Shot 2022-07-01 at 1 13 59 AM" src="https://user-images.githubusercontent.com/72324875/176828272-f2bc4c97-1361-4c90-9644-508739cebd3c.png">
+</p>You'll see two different results, however we only care about the first one<p/>
+<img width="1426" alt="Screen Shot 2022-07-01 at 1 16 19 AM" src="https://user-images.githubusercontent.com/72324875/176828687-6d141b10-c214-41b9-836f-0094ed76eef5.png">
+</p>After clicking on the first result, enable the API<p/>
+<img width="1423" alt="Screen Shot 2022-07-01 at 1 18 19 AM" src="https://user-images.githubusercontent.com/72324875/176828817-1de39e62-0c99-4ffe-af11-9cea795dd328.png">
 
 
