@@ -1,6 +1,8 @@
 # Google-Calendar-API-Project
 </p>Using Google Calendar API to access personal calendars and create events with a simple GUI.<p/>
-</p>[Google Calendar API Quickstart](https://developers.google.com/calendar/api/quickstart/java)<p/>
+
+</p>All installation information can also be found on the [Google Calendar API Quickstart](https://developers.google.com/calendar/api/quickstart/java) <p/>
+
 ## Installations
 </p>Java 1.8 or greater.<p/>
 </p>Gradle 2.3 or greater.<p/>
