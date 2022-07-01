@@ -17,3 +17,10 @@ Open [Google Cloud Console](https://console.cloud.google.com/welcome?authuser=1)
 </p>Choose a Project ID (Can't be altered later on) and a location for the project<p/>
 <img width="1411" alt="Screen Shot 2022-07-01 at 12 39 40 AM" src="https://user-images.githubusercontent.com/72324875/176824559-aa1fbcec-2949-4348-83b7-ab7fae456946.png">
 </p>Click Create when you are satisfied<p/>
+
+## Setting up the API
+</p>After Creating your project you should be brought to something like this below <p/>
+<img width="1425" alt="Screen Shot 2022-07-01 at 12 40 50 AM" src="https://user-images.githubusercontent.com/72324875/176824668-cb8e58ab-4e87-48ed-bcb3-152dc1dd06a9.png">
+</p>Click on "Go to APIs Overview"<p/>
+<img width="1425" alt="Screen Shot 2022-07-01 at 12 40 50 AM" src="https://user-images.githubusercontent.com/72324875/176827944-a9fd1065-a793-4047-833d-023b8134308b.png">
+
